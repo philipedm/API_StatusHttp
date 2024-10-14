@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qa0botVnHba4y2eFythDNQT9OMycLd1mDIsSoafaLRg=",
+  "Source": "API_StatusHttp",
+  "BasePath": "_content/API_StatusHttp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

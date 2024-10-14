@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mat/O89aOi1rdFH3FdL7GxoI4VKzRwjzqOeoKcGLeF4=",
+  "Source": "API_StatusHttp",
+  "BasePath": "_content/API_StatusHttp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

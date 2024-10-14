@@ -1,0 +1,11 @@
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\API_StatusHttp.exe
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\API_StatusHttp.dll
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\API_StatusHttp.deps.json
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\API_StatusHttp.runtimeconfig.json
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\API_StatusHttp.pdb
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VS\API_StatusHttp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
